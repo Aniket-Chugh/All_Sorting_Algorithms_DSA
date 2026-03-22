@@ -8,7 +8,6 @@
     <meta name="keywords" content="Java Sorting Algorithms, Bubble Sort Java, Selection Sort Java, Insertion Sort Java, Merge Sort Java, Quick Sort Java, Heap Sort Java, Counting Sort Java, Radix Sort Java, DSA in Java, Data Structures and Algorithms, Java algorithms for interviews">
     <meta name="author" content="Aniket Chugh">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All Sorting Algorithms in Java | Deep Dive</title>
 </head>
 <body>
 
